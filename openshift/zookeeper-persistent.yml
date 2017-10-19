@@ -173,7 +173,7 @@ parameters:
   displayName: Version of the ZooKeeper Image
   description: Version of the ZooKeeper image to be used (stable or latest)
   required: true
-  value: stable
+  value: 3.3.x
 - name: DATA_VOLUME_CAPACITY
   displayName: Data Volume Capacity
   description: The size of the volume for data, e.g. 512Mi, 2Gi.

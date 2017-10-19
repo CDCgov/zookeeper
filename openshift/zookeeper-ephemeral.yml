@@ -153,4 +153,4 @@ parameters:
   displayName: Version of the ZooKeeper Image
   description: Version of the ZooKeeper image to be used (stable or latest)
   required: true
-  value: stable
+  value: 3.3.x
